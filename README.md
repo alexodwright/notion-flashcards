@@ -13,7 +13,7 @@ Before running, ensure you input your Notion Integration API Key, Google Gemini 
    │   ├── Lecture 1
    │   ├── Lecture 2
    │   ├── Lecture 3
-   ├── Subject 
+   ├── Subject 3
    │   ├── Lecture 1
    │   ├── Lecture 2
    │   ├── Lecture 3
