@@ -2,6 +2,14 @@
 
 This is a python script that creates Anki flashcard files from your Notion notes! By using the Notion API and the Google Gemini AI 1.5 flash model, flashcards are created to help you study for your exams!
 - Before running, ensure you input your Notion Integration API Key, Google Gemini Studio Key and the Block ID of the root page of your Notion notes into the creds.py file.
+- Also ensure you are using the provided virtual environment by running the following command in the command line interface on Linux or Mac:
+```bash
+source venv/bin/activate
+```
+- or if running on Windows:
+```
+venv/Scripts/activate
+```
 -  Assuming a notion page layout as follows:
 
 ```bash
